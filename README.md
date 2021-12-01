@@ -7,4 +7,4 @@ You just need run the simulator script. The development enviroment is python3.7 
 
 If anyone finds the bug or have new ideas, please let me know. Also welcome to contact me, if you have some problems.
 
-Email address: zndong@shao.ac.cn
+Email address: zndong2021@163.com
